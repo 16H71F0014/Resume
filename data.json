@@ -1,8 +1,53 @@
 {
 	"details":{
-		"name":"Ram",
+		"name":" Arya.sushmitha",
 		"image":"images.jpg",
 		"phone":"9440319226",
 		"email":"aryasushmitha1814@gmail.com"
+
+	},
+	"education":[
+		{
+			"course":"MCA",
+			"college":"MIC college OF TECHNOLOGY",
+			"percentage":"80"
+
+		},
+		{
+			"course":"BSC(COMP)",
+			"college":"MONTESORI MAHILA KALASA",
+			"percentage":"75"
+
+		},
+		{
+			"course":"intermediate",
+			"college":"sri chaitaya college",
+			"percentage":"76"
+
+		},
+		{
+			"course":"ssc",
+			"college":"st.ann'school",
+			"percentage":"76"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				"c","c++","java","python"
+			]
+		},
+		{
+			"title":"operating system",
+			"output":[
+				"windows","linux","MAC"
+
+			]
+		}	
+],
+	"carrier":
+		{
+			"co":" To be perfect in all aspects in my life"
+		}
 	}
-}
